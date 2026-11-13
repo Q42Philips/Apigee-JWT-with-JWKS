@@ -14,5 +14,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "overrides": {
+    "node-forge": "1.4.0"
+  }
 }
